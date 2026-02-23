@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "9/21",
+  "base_artist": "ロクデナシ宇宙",
+  "createdAt": "2026-02-23T17:01:20.715252Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "9",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/01_9_Drake.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "5 Foot 9",
+      "artist": "Tyler Hubbard",
+      "has_synced": true,
+      "path": "select/02_5_Foot_9_Tyler_Hubbard.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "5 Foot 9 - Acoustic",
+      "artist": "Tyler Hubbard",
+      "has_synced": true,
+      "path": "select/03_5_Foot_9_-_Acoustic_Tyler_Hubbard.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "9 to 5",
+      "artist": "Dolly Parton",
+      "has_synced": false,
+      "path": "select/04_9_to_5_Dolly_Parton.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "9 to 5",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/05_9_to_5_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "9 to 5",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/06_9_to_5_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "9 to 5 (FROM THE STILL WORKING 9 TO 5 DOCUMENTARY)",
+      "artist": "Kelly Clarkson feat. Dolly Parton",
+      "has_synced": true,
+      "path": "select/07_9_to_5_(FROM_THE_STILL_WORKING_9_TO_5_DOCUMENTARY)_Kelly_Clarkson_feat._Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "9 to 5 (FROM THE STILL WORKING 9 TO 5 DOCUMENTARY)",
+      "artist": "Kelly Clarkson",
+      "has_synced": true,
+      "path": "select/08_9_to_5_(FROM_THE_STILL_WORKING_9_TO_5_DOCUMENTARY)_Kelly_Clarkson.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Blue Yodel No. 9 (Standin' on the Corner)",
+      "artist": "Jimmie Rodgers",
+      "has_synced": false,
+      "path": "select/09_Blue_Yodel_No._9_(Standin'_on_the_Corner)_Jimmie_Rodgers.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lovesick Blues (Show 9)",
+      "artist": "Hank Williams",
+      "has_synced": false,
+      "path": "select/10_Lovesick_Blues_(Show_9)_Hank_Williams.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "9 Crimes",
+      "artist": "Damien Rice",
+      "has_synced": true,
+      "path": "select/11_9_Crimes_Damien_Rice.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "59,9,9 Grader Nord",
+      "artist": "Klovner I Kamp",
+      "has_synced": true,
+      "path": "select/12_59,9,9_Grader_Nord_Klovner_I_Kamp.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Falling from Cloud 9",
+      "artist": "Lift to Experience",
+      "has_synced": false,
+      "path": "select/13_Falling_from_Cloud_9_Lift_to_Experience.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "9/21",
+      "artist": "ロクデナシ宇宙",
+      "has_synced": false,
+      "path": "select/pl_01_9_21_ロクデナシ宇宙.txt"
+    }
+  ]
+}
